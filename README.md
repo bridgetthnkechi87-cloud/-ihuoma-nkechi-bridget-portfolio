@@ -1,16 +1,72 @@
-# React + Vite
+# Ihuoma Nkechi Bridget
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Cloud & DevOps Engineer | Technical Account Management | Customer Success
 
-Currently, two official plugins are available:
+Welcome to the repository for my personal portfolio.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+I'm a Cloud & DevOps Engineer with hands-on experience building, deploying, and managing cloud infrastructure and applications across AWS and Azure.
 
-## React Compiler
+My work and learning focus on infrastructure automation, containerization, CI/CD, Kubernetes, cloud reliability, monitoring, and GitOps.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+I'm also developing expertise in Technical Account Management and Customer Success, strengthening my ability to connect technical solutions with customer goals and business outcomes.
 
-## Expanding the ESLint configuration
+## ☁️ Cloud & DevOps
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- AWS
+- Microsoft Azure
+- Terraform
+- Docker
+- Kubernetes
+- GitHub Actions
+- CI/CD
+- Argo CD
+- Linux
+- Prometheus & Grafana
+- Git & GitHub
+
+## 🤝 Technical Account & Customer Success
+
+- Technical Account Management
+- Customer Onboarding
+- Customer Journey Mapping
+- Product Adoption
+- Account Health Monitoring
+- Customer Retention
+- Technical Support
+- Customer Success Planning
+
+## 🚀 What You'll Find in My Portfolio
+
+My portfolio highlights practical projects and experience across:
+
+- Cloud infrastructure
+- Infrastructure as Code
+- Kubernetes deployments
+- Docker containerization
+- CI/CD automation
+- Monitoring and observability
+- GitOps
+- Open-source contributions
+- Technical Account Management and Customer Success learning
+
+## 🌐 Portfolio
+
+**Ihuoma Nkechi Bridget**
+
+Portfolio: https://ihuomankechibridget.online
+
+LinkedIn: https://www.linkedin.com/in/nkechi-ihuoma-bridget
+
+GitHub: https://github.com/bridgetthnkechi87-cloud
+
+X: https://x.com/nkytech
+
+## 🌱 Currently Growing
+
+I'm continuing to deepen my Cloud & DevOps engineering skills while developing a stronger understanding of how technology supports customer success, adoption, retention, and business growth.
+
+My goal is simple: build reliable technology, understand the people using it, and contribute to solutions that create measurable value.
+
+---
+
+**Building. Learning. Improving. Creating impact.**
